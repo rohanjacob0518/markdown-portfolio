@@ -1,1 +1,13 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- # My Key Attributes:
+  * Cheerful
+  * Consistent
+  * Cooperative
+- # Programming Language :
+  * C++
+  * Python
+  * HTML
+  * Javascript
+- # My Skills:
+  * Communication Skill
+  * Computer proficiency
+  * Problem-solving abilities
