@@ -1,13 +1,13 @@
-- # My Key Attributes:
+- My Key Attributes:
   * Cheerful
   * Consistent
-  * Cooperative
+  * **Cooperative
 - # Programming Language :
-  * C++
+  * _C++
   * Python
-  * HTML
-  * Javascript
+  * _HTML
+  * _Javascript
 - # My Skills:
   * Communication Skill
-  * Computer proficiency
-  * Problem-solving abilities
+  * **Computer proficiency
+  * **Problem-solving abilities
